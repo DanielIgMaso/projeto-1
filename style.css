@@ -1,0 +1,73 @@
+body{
+	background: #BEBEBE;
+}
+
+#banner{
+	width: 100%;
+	height: 500px;
+}
+.principal{
+	background-color: #999999;
+}
+
+h1{
+	text-align: left;
+	background: #BBB49C;
+	font-size: 55px;
+	font-weight: bold;
+	padding-left: 10px;
+}
+
+h2{
+	text-align: center;
+	font-size: 55px;
+	font-weight: bold;
+}
+
+p {
+ 	text-align: center; 
+ 	font-size: 25px;
+ 	margin:10px 30px;
+}
+
+#frasePrincipal{
+	font-size: 30px;
+	color: #DD9900;
+}
+
+i{
+	font-weight: bolder;
+}
+i u{
+	font-size: 40px;
+}
+.serviços{
+	padding: 10px;
+	background-color: #999999;
+}
+.imgServiços{
+	width: 28%;
+}
+h3{
+	padding-left: 30px;
+	font-size: 40px;
+	background-color: #d2b48c;
+}
+ul{
+	background-color: #D3D3D3;
+	font-style: italic;
+	display: inline-block;
+	vertical-align: top;
+	margin: 20px 0;
+	padding-right: 15px;
+}
+.itens{
+	font-size: 30px;
+	font-weight: bold;
+}
+.subitens{
+	font-style: italic;
+	line-height: 50px;
+	font-size: 20px;
+
+}
